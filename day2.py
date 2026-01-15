@@ -19,3 +19,6 @@ data.head()
 
 #%%
 # Plotly 6.5.1
+
+#%%
+# Recipe Link: https://github.com/aelias5438/EnvRecipe
